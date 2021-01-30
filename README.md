@@ -1,4 +1,4 @@
-### Hello Friend 👋
+### Hello Friend :)
 
 I'm a Front-End Developer with experience building websites and web applications. 
 
