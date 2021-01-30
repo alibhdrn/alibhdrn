@@ -6,8 +6,8 @@ I specialize in JavaScript, Html, Css and Sass. ⚡
 
 I also love learning new technologies and I always try to make myself better. 💪📚
 
-Code 💻
-Game 🎮
+Code 💻 |
+Game 🎮 |
 Coffee ☕️
 
 My Linkedin Page :
