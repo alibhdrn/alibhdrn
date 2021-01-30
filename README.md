@@ -10,5 +10,5 @@ Code 💻 |
 Game 🎮 |
 Coffee ☕️
 
-My Linkedin Page :
+My Linkedin :
 https://www.linkedin.com/in/alibahadoran/
