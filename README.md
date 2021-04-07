@@ -1,6 +1,4 @@
-### Hello Friend :)
------------------------
-![photo_2021-02-07_21-36-23](https://user-images.githubusercontent.com/71150321/113896906-9c41ef00-97df-11eb-84c9-14cc9f6983ef.jpg)
+![MNaoe-yGW](https://user-images.githubusercontent.com/71150321/113897232-ec20b600-97df-11eb-9e12-b8f836235fa7.jpeg)
 
 ------------------------------------
 
