@@ -13,4 +13,4 @@ I'm Ali from Iran, and I'm a Front-End Developer with experience building websit
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-alibhdrn.vercel.app/api/spotify-playing" alt="alibhdrn Spotify Playing" width="350" />](https://open.spotify.com/track/12e8oH35w90m0jzVLsI9mU?si=478aa2ee13544d03)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/12e8oH35w90m0jzVLsI9mU?si=478aa2ee13544d03)
