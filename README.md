@@ -8,6 +8,8 @@ I'm Ali from Iran, and I'm a Front-End Developer with experience building websit
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhdrn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ## Connect with me:
 
 
@@ -15,9 +17,7 @@ I'm Ali from Iran, and I'm a Front-End Developer with experience building websit
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/12e8oH35w90m0jzVLsI9mU?si=478aa2ee13544d03)
-
 <br />
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,6 +31,3 @@ I'm Ali from Iran, and I'm a Front-End Developer with experience building websit
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhdrn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
