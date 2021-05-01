@@ -1,4 +1,4 @@
-[logo](https://user-images.githubusercontent.com/71150321/114740615-416c4280-9d5f-11eb-83a4-a8aa96ac0804.jpg)
+![logo](https://user-images.githubusercontent.com/71150321/114740615-416c4280-9d5f-11eb-83a4-a8aa96ac0804.jpg)
 
 # Ali Bahadoran
 
