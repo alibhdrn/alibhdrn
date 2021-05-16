@@ -1,5 +1,6 @@
 ## Hi there 👋
-![logo](https://user-images.githubusercontent.com/71150321/114740615-416c4280-9d5f-11eb-83a4-a8aa96ac0804.jpg)
+![zvmufufyouyq](https://user-images.githubusercontent.com/71150321/118391502-d5c11200-b649-11eb-9caa-1ecb4fa5524c.png)
+
 
 # Ali Bahadoran
 #### I'm Ali from Iran, and I'm a Front-End Developer with experience building websites and web applications. I specialize in JavaScript, Html, CSS, Sass. I also enjoy learning new technologies and making myself better. Code | Game | Coffee 
