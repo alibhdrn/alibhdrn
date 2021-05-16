@@ -1,5 +1,5 @@
 ## Hi there 👋
-![zvmufufyouyq](https://user-images.githubusercontent.com/71150321/118391502-d5c11200-b649-11eb-9caa-1ecb4fa5524c.png)
+![devbyali](https://user-images.githubusercontent.com/71150321/118391632-8d562400-b64a-11eb-9115-cf0fdf8ad6d2.jpg)
 
 
 # Ali Bahadoran
