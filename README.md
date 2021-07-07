@@ -34,5 +34,6 @@
 ### 🌐Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/devbyali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/alibahadoran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/devbyali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/devbyali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/devbyali) 
 <br><br><br>
-![77caa32884d735d439ade45ba37feaf2](https://user-images.githubusercontent.com/71150321/116786459-f0c14d00-aab3-11eb-90f7-458e06e2ff84.gif)
+![DevByAli](https://user-images.githubusercontent.com/71150321/124779013-f6626580-df30-11eb-882e-3b1afdac0f21.gif)
+
 
